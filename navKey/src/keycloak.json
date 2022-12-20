@@ -1,0 +1,12 @@
+{
+  "realm": "Dev",
+  "url": "http://192.168.5.165:8080/",
+  "auth-server-url": "http://192.168.5.165:8080/",
+  "ssl-required": "external",
+  "resource": "dev_client",
+  "clientId": "dev_client",
+  "public-client": true,
+  "confidential-port": 0
+  
+}
+
