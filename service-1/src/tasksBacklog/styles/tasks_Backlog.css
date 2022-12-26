@@ -1,0 +1,25 @@
+
+
+
+.statusBacklog{
+    width: 110px;
+    background-color: rgb(233, 133, 133);
+    border-radius: 20px;
+}
+
+
+.buttonAddTasks{
+    color: white;
+    width: 160px;
+    margin-left: 80px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    background-color: #48409E;
+    border-radius: 10px;
+}
+.bi{
+   color: white;
+   margin-right: 5px;
+}

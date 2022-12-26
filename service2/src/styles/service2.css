@@ -1,0 +1,59 @@
+.my-40{
+   
+
+    
+}
+
+.title-addproducts{
+    color: #5D4FB1;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.productId{margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    display:flex; 
+    place-items: center;  
+    background-color: white;
+    
+    
+   
+    
+    border-radius: 10px;
+   
+}
+.containerProduct {height: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+   
+    
+}
+.flex-grow{
+    
+   
+}
+.price{
+    color: #5D4FB1;
+    font-weight: 700;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+.description{
+    
+    
+}
+.image{
+    width: 50px;
+    height: 50px;
+}
+.nameProduct{
+   margin-left: 20px;
+   margin-right: 20px;
+    
+}

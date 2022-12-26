@@ -1,0 +1,12 @@
+{
+  "realm": "Dev",
+  "url": "http://192.168.0.42:8080/",
+  "auth-server-url": "http://192.168.0.42:8080/",
+  "ssl-required": "external",
+  "resource": "smiley-dev",
+  "clientId": "smiley-dev",
+  "public-client": true,
+  "confidential-port": 0
+  
+}
+
